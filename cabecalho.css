@@ -1,0 +1,25 @@
+.menu {
+    
+    align-items: center;
+    /*border: 25px solid #b2b2fa;
+    background-color: #b2b2fa;*/
+    display: flex;
+    font-size: arial;
+    justify-content: space-between;
+    padding-left: 50rem;
+    padding-right: 5rem;
+    padding-top: 20px;
+    
+    
+    
+}
+.menu__lis {
+    
+    color: white;
+    cursor: pointer;
+    display: inline;
+    text-decoration: none;
+    transition: all 05s;
+    font-size: 20px;
+   
+}
